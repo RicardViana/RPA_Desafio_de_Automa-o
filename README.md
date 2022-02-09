@@ -51,7 +51,7 @@ E por fim, encerramos as instâncias que não são mais necessarias
 
 ## Exportados dados para o Excel 
 
-Para essa ção, temos a opção de Gravar na planilha do Excel
+Para essa ação, temos a opção de Gravar na planilha do Excel
 
 ![image](https://user-images.githubusercontent.com/62486279/153307727-85fe209b-cb57-4175-b2a0-6029c458e5e0.png)
 
